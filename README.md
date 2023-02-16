@@ -1,1 +1,2 @@
 # Data-Scientist-Analytics-Specialist
+Companies are looking for Data Scientists who can manage data, get results, and drive decision-making. Analytics is all about using data to answer questions, and this Career Path will teach you just that. You'll learn how to analyze data, build dashboards, and deliver impactful reports. Along the way, you'll build portfolio-worthy projects that will help you get job-ready.
